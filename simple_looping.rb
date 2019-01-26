@@ -1,6 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
-phrase = "Welcome to Flatiron School's Web Development Course!"
+
 def loop_iterator(5)
+  phrase = "Welcome to Flatiron School's Web Development Course!"
   loop do 
     puts phrase
     loop_iterator += 1
