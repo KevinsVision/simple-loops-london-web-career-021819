@@ -33,7 +33,7 @@ def while_iterator(number_of_times = 7)
   while number_of_times < 7 
   number_of_times +=1
   puts phrase
-  end
+  
 end
 
 def until_iterator(number_of_times)
