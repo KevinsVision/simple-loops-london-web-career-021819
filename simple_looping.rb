@@ -55,6 +55,5 @@ def for_iterator(number_of_times = 7)
   phrase = "Welcome to Flatiron School's Web Development Course!"
   for inerator 1..7 do
     puts phrase
-  end
 end
 
