@@ -3,6 +3,7 @@
 def loop_iterator(5)
   loop do 
     puts "Welcome to Flatiron School's Web Development Course!"
+    loop_iterator += 1
     if loop_iterator >= 5
       break
     end
