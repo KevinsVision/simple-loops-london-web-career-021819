@@ -57,5 +57,4 @@ def for_iterator(number_of_times = 7)
     puts phrase
   end
 end
-end
 
