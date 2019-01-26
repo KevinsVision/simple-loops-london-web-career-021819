@@ -4,7 +4,7 @@ def loop_iterator(5)
   phrase = "Welcome to Flatiron School's Web Development Course!"
   loop do 
     puts phrase
-    loop_iterator += 1
+    
     if loop_iterator >= 5
       break
     end
