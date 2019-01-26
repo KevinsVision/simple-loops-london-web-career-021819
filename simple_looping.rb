@@ -18,7 +18,7 @@ def loop_iterator(number_of_times = 5)
   
 end
 
-def times_iterator(5)
+def times_iterator(number_of_times = 5)
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
   5.times do
