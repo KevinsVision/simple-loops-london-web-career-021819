@@ -1,6 +1,6 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator(5)
+def loop_iterator(0)
   loop do 
     puts phrase
     loop_iterator += 1
