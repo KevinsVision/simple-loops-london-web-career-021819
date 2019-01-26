@@ -2,9 +2,9 @@
 
 def loop_iterator(number_of_times = 5)
   loop do 
-    loop_iterator += 1
+    number_of_times += 1
     puts phrase
-    if loop_iterator >= 5
+    if number_of_times >= 5
       break
     end
   # Code your solution here using the "loop" keyword to puts out the below phrase
