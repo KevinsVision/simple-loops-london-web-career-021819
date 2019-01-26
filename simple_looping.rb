@@ -21,7 +21,7 @@ end
 def times_iterator(5)
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
-  5.time do
+  5.times do
     puts phrase
 end
 
