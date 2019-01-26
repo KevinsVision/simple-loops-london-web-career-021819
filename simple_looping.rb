@@ -2,8 +2,8 @@
 
 def loop_iterator(1)
   loop do 
-    puts phrase
     loop_iterator += 1
+    puts phrase
     if loop_iterator >= 5
       break
     end
