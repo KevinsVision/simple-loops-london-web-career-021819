@@ -1,10 +1,10 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator(number_of_times = 7)
+def loop_iterator(7)
   loop do 
     #number_of_times += 1
     puts phrase
-    if number_of_times > 7
+    if loop_iterator > 7
       break
     end
   # Code your solution here using the "loop" keyword to puts out the below phrase
