@@ -1,7 +1,6 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(5)
-  phrase = "Welcome to Flatiron School's Web Development Course!"
   loop do 
     puts phrase
     loop_iterator += 1
@@ -15,6 +14,7 @@ def loop_iterator(5)
   #   correct number of times?
   # Maybe we should keep count of the number of times we've puts out the 
   #  phrase and break when the counter hits the appropriate number...
+  phrase = "Welcome to Flatiron School's Web Development Course!"
   
 end
 
