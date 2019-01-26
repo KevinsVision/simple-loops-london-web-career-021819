@@ -37,11 +37,12 @@ def while_iterator(number_of_times = 7)
   end
 end
 
-def until_iterator(number_of_times)
+def until_iterator(number_of_times = 7)
   # code your solution here using the "until" keyword
   # hint: use a counter to tell the until loop when to stop!
   phrase = "Welcome to Flatiron School's Web Development Course!"
   counter = 0
+  until counter == 7
   
 
 end
